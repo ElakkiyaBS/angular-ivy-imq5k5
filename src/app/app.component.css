@@ -1,0 +1,13 @@
+p {
+  font-family: Lato;
+}
+.formControl {
+  display: flex;
+  padding: 8px;
+  margin: 15px;
+}
+.btn {
+  background-color: #cccc;
+  border: #333 solid 1px;
+  padding: 6px;
+}
